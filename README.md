@@ -1,5 +1,5 @@
 # Goofy 3D Renderer  
-Screenshot of the Utah Teapot, except I replaced the triangle rendering code to just draw lines instead, creating a cool wireframe effect:
+Screenshot of the Utah Teapot, except I replaced the triangle rendering code to just draw lines instead, creating a cool wireframe effect:  
 <img width="626" height="614" alt="utahteapot" src="https://github.com/user-attachments/assets/80faaae8-51ff-4d4b-aefa-05733f532672" />
 
 This was initially a simple assigbnment for CMPT-361 where we were instructed to efficiently draw lines and triangles given through the command window.  
