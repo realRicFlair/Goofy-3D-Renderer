@@ -8,3 +8,12 @@ Initially the assignment program only renders once you copy paste the text and p
 The most insightfull part of this assignment for me, was just how ridiculously fast modern CPU's have become.  
 Something as ridiculous as running a full rasterizer, entirely on the CPU, thats running a VM that interprets javascript, that has to convert between two vertex formats in memmory (From array to the text file to pass to triangle drawer) for absolutely no reason, along with shading for every triangle.  
 Despite all that, it somehow manages to run decently and with some fluidity. Its astonishing
+
+
+### Heres some videos to demonstrate:
+
+https://github.com/user-attachments/assets/53fd4176-3f31-4e87-bb37-37cc01bc122a
+
+
+https://github.com/user-attachments/assets/a4343e9d-d26f-41b1-ab3e-ea23e3ac4bbd
+
